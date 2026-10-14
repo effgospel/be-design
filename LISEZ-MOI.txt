@@ -1,0 +1,27 @@
+BE DESIGN — PORTFOLIO HTML/CSS
+
+FICHIERS
+- index.html : structure et contenu du site.
+- style.css : couleurs, styles et affichage adapté aux mobiles.
+- script.js : menu mobile et préparation du message WhatsApp.
+
+OUVRIR LE SITE
+1. Décompresse le fichier ZIP si nécessaire.
+2. Ouvre index.html dans un navigateur (Chrome, Safari, Firefox).
+3. Pour modifier le site, ouvre les fichiers avec un éditeur de code.
+
+AVANT DE PUBLIER
+1. Dans script.js, remplace WHATSAPP_NUMBER = '243000000000' par ton numéro international, sans +, espaces ni tirets.
+2. Dans index.html, remplace l'adresse e-mail de démonstration par la tienne.
+3. Remplace les exemples du portfolio par tes propres créations. Les images graphiques visibles sont des compositions CSS de démonstration.
+
+PUBLIER GRATUITEMENT AVEC GITHUB PAGES
+1. Crée un compte sur https://github.com/.
+2. Crée un dépôt public nommé be-design-portfolio.
+3. Téléverse index.html, style.css et script.js à la racine du dépôt.
+4. Dans le dépôt, ouvre Settings > Pages.
+5. Dans Build and deployment, choisis Deploy from a branch.
+6. Sélectionne la branche main et le dossier /(root), puis clique Save.
+7. Attends quelques minutes et ouvre l'adresse publiée indiquée dans Settings > Pages.
+
+Le site est statique et ne stocke pas les demandes dans une base de données. Le formulaire prépare un message WhatsApp après configuration du numéro.
